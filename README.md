@@ -11,11 +11,11 @@
 
 ## About <a name = "about"></a>
 
-This project aims to identify and monitor players, referees, and footballs in video footage using YOLO, a top-tier AI object detection model. We plan to train the model further to enhance its efficiency. Moreover, we will categorize players into teams based on their jersey colors using Kmeans for pixel segmentation and clustering. 
+This project aims to identify and monitor players, referees, and footballs in video footage using YOLO, a top-tier AI object detection model. The model should be trained further to enhance its efficiency. Moreover, categorization of players into teams based on their jersey colors, using Kmeans for pixel segmentation and clustering can be added. 
 
-This data will allow us to calculate the percentage of ball possession for each team during a game. We will also employ optical flow to gauge camera movement across frames, which will help us precisely track a player's motion. Additionally, we will apply perspective transformation to depict the depth and perspective of the scene, enabling us to measure a player's movement in meters instead of pixels. 
+This data will allow us to calculate the percentage of ball possession for each team during a game. Optical flow is implimented to gauge camera movement across frames, which will help in precisely tracking a player's motion. Additionally, perspective transformation is applied to depict the depth and perspective of the scene, enabling the measurement of a player's movement in meters(m) instead of pixels. 
 
-Finally, we will determine a player's speed and the total distance they traversed. This project encompasses a range of concepts and tackles practical problems, making it an excellent learning opportunity for both novice and seasoned machine learning engineers.
+Finally, a player's speed and the total distance travelled is calculated. I was aiming to encompass a range of concepts and tackle practical problems, making it an excellent learning opportunity through a rabbit hole.
 
 ## Getting Started <a name = "getting_started"></a>
 
