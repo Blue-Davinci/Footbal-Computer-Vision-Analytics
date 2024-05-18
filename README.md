@@ -5,6 +5,7 @@
 - [About](#about)
 - [Getting Started](#getting_started)
 - [Usage](#usage)
+- [To-Do](./todo.md)
 - [Contributing](../CONTRIBUTING.md)
 
 ## About <a name = "about"></a>
