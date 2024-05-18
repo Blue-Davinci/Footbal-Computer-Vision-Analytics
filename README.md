@@ -5,6 +5,7 @@
 - [About](#about)
 - [Getting Started](#getting_started)
 - [Usage](#usage)
+- [Resources](#resources)
 - [To-Do](./todo.md)
 - [Contributing](../CONTRIBUTING.md)
 
@@ -61,11 +62,11 @@ The following modules are used in this project:
 - Speed and distance calculation per player
 
 
-## Project Resources:
+## Project Resources <a name = "resources"></a>
 
 - The Video sample of the project : [Video Sample](https://drive.google.com/file/d/1t6agoqggZKx6thamUuPAIdN_1zR9v9S_/view?usp=sharing)
 - The training model used:          [Training Model](https://drive.google.com/file/d/1DC2kCygbBWUKheQ_9cFziCsYVSRw6axK/view?usp=sharing)
 
-## Application WorkFlow
+## Application WorkFlow 
 
 ![Workflow](./Screenshot1.png)
